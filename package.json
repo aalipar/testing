@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing for private package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalipar/testing.git"
+  },
+  "keywords": [
+    "package",
+    "laravel"
+  ],
+  "author": "aalipar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aalipar/testing/issues"
+  },
+  "homepage": "https://github.com/aalipar/testing#readme"
+}
