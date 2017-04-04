@@ -1,0 +1,8 @@
+{
+    "name": "aalipar/testing",
+    "description": "testing package for laravel",
+    "type": "library",
+    "require": {
+        "php": "5.5"
+    }
+}
